@@ -1,0 +1,20 @@
+span.hola {
+    background-color: yellow;
+}
+span.bon {
+    background-color: red;
+}
+div.bloc {
+    background-color: yellow;
+    border: 1px solid red;
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+}
+p.azul {
+    color: blue;
+}
+span.dissabtes {
+    columns: red;
+    display: inline;
+}
